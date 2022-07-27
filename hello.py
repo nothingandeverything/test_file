@@ -6,3 +6,6 @@
 @Email: xiongx8@sany.com.cn
 @IDE ：PyCharm
 """
+
+if __name__ == '__main__':
+    print(1)
